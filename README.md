@@ -4,6 +4,10 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Stripe](https://img.shields.io/badge/Stripe-Subscriptions-635bff) ![License](https://img.shields.io/badge/license-Commercial-green)
 
+### [⬇️ Buy for $29](https://paypal.me/pvbang001)
+
+**[⬇️ Buy for $29 →](https://paypal.me/pvbang001)** — one-time payment, instant access. Pay securely via PayPal (guest checkout & card accepted, no account required). After payment, email `phanvanbang.dev@gmail.com` with your receipt to receive the commercial license + full source.
+
 ---
 
 ## 💰 Get the kit — $29 commercial license
@@ -115,7 +119,7 @@ For production, switch Prisma's datasource `provider` to `postgresql` and update
 
 ## 📝 License
 
-Commercial single-team license. Build and ship unlimited products; do not resell or redistribute the kit itself.
+Commercial single-team license — **[⬇️ Buy for $29](https://paypal.me/pvbang001)**. Build and ship unlimited products; do not resell or redistribute the kit itself.
 
 ---
 
