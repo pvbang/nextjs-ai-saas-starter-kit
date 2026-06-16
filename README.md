@@ -6,6 +6,16 @@
 
 ---
 
+## 💰 Get the kit — $29 commercial license
+
+**[⬇️ Download v1.0.0 (full zip)](https://github.com/pvbang/nextjs-ai-saas-starter-kit/releases/download/v1.0.0/nextjs-ai-saas-starter-kit.zip)** · **[📦 Release page](https://github.com/pvbang/nextjs-ai-saas-starter-kit/releases/tag/v1.0.0)**
+
+One-time **$29** — build & ship unlimited products on a single team. Lifetime updates to v1.x.
+Prefer Gumroad checkout? A hosted listing is being finalized; the GitHub release above is the canonical download.
+
+---
+
+
 ## ✨ What's inside
 
 Everything wired together and **building green** out of the box:
