@@ -4,18 +4,30 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Stripe](https://img.shields.io/badge/Stripe-Subscriptions-635bff) ![License](https://img.shields.io/badge/license-Commercial-green)
 
-### [⬇️ Buy for $29](https://paypal.me/pvbang001)
-
-**[⬇️ Buy for $29 →](https://paypal.me/pvbang001)** — one-time payment, instant access. Pay securely via PayPal (guest checkout & card accepted, no account required). After payment, email `phanvanbang.dev@gmail.com` with your receipt to receive the commercial license + full source.
+> **Open-core.** This public repo is the **free Lite** edition — read the code, run it locally, judge the quality. The **Pro** edition ($29) adds the parts that eat your first weekend (full Stripe billing + hardened webhook + credit metering + Postgres + Vercel deploy guide) and is delivered as a **private repo invite** on payment.
 
 ---
 
-## 💰 Get the kit — $29 commercial license
+## 💰 Lite (free)  vs  Pro ($29 — gated)
 
-**[⬇️ Download v1.0.0 (full zip)](https://github.com/pvbang/nextjs-ai-saas-starter-kit/releases/download/v1.0.0/nextjs-ai-saas-starter-kit.zip)** · **[📦 Release page](https://github.com/pvbang/nextjs-ai-saas-starter-kit/releases/tag/v1.0.0)**
+| | **Lite** (this repo, free) | **Pro** ($29, private repo) |
+|---|---|---|
+| Landing + dark mode | ✅ | ✅ |
+| Auth.js magic-link | ✅ demo | ✅ full + GitHub OAuth |
+| Chat UI | ✅ mock | ✅ real OpenAI + zod + credit metering |
+| Stripe Checkout + Billing Portal | ❌ | ✅ |
+| Hardened subscription webhook | ❌ | ✅ |
+| Postgres production config | ❌ | ✅ |
+| Vercel deploy guide | ❌ | ✅ |
+| Lifetime v1.x updates | ❌ | ✅ |
 
-One-time **$29** — build & ship unlimited products on a single team. Lifetime updates to v1.x.
-Prefer Gumroad checkout? A hosted listing is being finalized; the GitHub release above is the canonical download.
+### 🔑 How to get Pro ($29, one-time)
+
+1. Pay **$29** via **[PayPal (guest checkout / card, no account needed)](https://paypal.me/pvbang001)**.
+2. Email **`phanvanbang.dev@gmail.com`** with your **PayPal receipt + your GitHub username**.
+3. Within 24h you receive a **read invite to the private `nextjs-ai-saas-starter-kit-pro` repo** — that's your gated, enforceable delivery (not an honor-system download).
+
+> Why gated? The Pro source lives in a **private repo**. Only paying customers get the GitHub invite, so the value you pay for can't be cloned for free.
 
 ---
 
@@ -119,7 +131,7 @@ For production, switch Prisma's datasource `provider` to `postgresql` and update
 
 ## 📝 License
 
-Commercial single-team license — **[⬇️ Buy for $29](https://paypal.me/pvbang001)**. Build and ship unlimited products; do not resell or redistribute the kit itself.
+This Lite edition is free for evaluation and local use. The **Pro** edition is a **commercial single-team license** — **[get it for $29](https://paypal.me/pvbang001)** (delivered as a private-repo invite). Build and ship unlimited products; do not resell or redistribute the kit itself.
 
 ---
 
